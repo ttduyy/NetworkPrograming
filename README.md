@@ -26,3 +26,6 @@ Chúng tôi sử dụng SemVer để tạo phiên bản. Đối với các phiê
 - Trần Bảo Duy - Trưởng nhóm
 - Trần Thu Hảo
 - Nguyễn Cao Minh
+
+### LIÊN HỆ
+**Email:**tranbaoduy176@gmail.com
