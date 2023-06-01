@@ -3,7 +3,7 @@
 ## XÂY DỤNG CHƯƠNG TRÌNH QUẢN LÍ SINH VIÊN TRÊN MÔ HÌNH SERVER-CLIENT BẰNG JAVA VỚI GIAO THỨC UDP
 
 ### CÁC PHƯƠNG THỨC & HÀM , CƠ SỞ LÝ THUYẾT, KẾT QUẢ KIỂM THỬ
-[Tại đây](https://github.com/ttduyy/NetworkPrograming/Nhom5.docx)
+[Tại đây](https://github.com/ttduyy/NetworkPrograming/blob/main/Nhom5.docx)
 
 ### CÀI ĐẶT
 - Bật Xampp, bật Apache và MySQL
