@@ -23,6 +23,6 @@ NetBeans - Công cụ khởi chạy project Java Swing
 Chúng tôi sử dụng SemVer để tạo phiên bản. Đối với các phiên bản có sẵn, xem các thẻ trên kho lưu trữ này .
 
 ### TÁC GIẢ
-Trần Bảo Duy - Trưởng nhóm
-Trần Thu Hảo
-Nguyễn Cao Minh
+- Trần Bảo Duy - Trưởng nhóm
+- Trần Thu Hảo
+- Nguyễn Cao Minh
